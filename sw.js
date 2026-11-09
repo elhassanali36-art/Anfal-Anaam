@@ -1,5 +1,5 @@
 /* سوق الأنعام — يعمل بسرعة ويحفظ آخر نسخة من العروض للعرض بدون إنترنت */
-var CACHE = 'anaam-v2';
+var CACHE = 'anaam-v3';
 var CORE = ['./', './index.html', './manifest.webmanifest', './img/icon-192.png', './img/icon-512.png', './img/placeholder.svg'];
 
 self.addEventListener('install', function (e) {
